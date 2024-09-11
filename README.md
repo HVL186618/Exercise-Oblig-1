@@ -1,2 +1,2 @@
-# Exercicse Oblig 1 haskell
+# Exercise Oblig 1 haskell
  
